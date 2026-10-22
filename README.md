@@ -6,7 +6,7 @@ produced by ambient scribe systems.
 
 ## Status
 
-🚧 In development. Phase 0: setup and literature review.
+In development. Phase 0: setup and literature review.
 
 ## Approach (planned)
 
